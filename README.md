@@ -1,4 +1,4 @@
-### Hello I'm Christie👋🏾
+### Hello, I'm Christie👋🏾
 
 <!--
 **cpam2011/cpam2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
