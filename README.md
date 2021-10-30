@@ -1,6 +1,6 @@
 ### Hello, I'm Christie👋🏾
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently a Software Development
+- 🌱 I’m a Software Developer
 - 📫 How to reach me: cpamp2011@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love gaming!
